@@ -1,0 +1,1 @@
+KEY = "Your API key"
